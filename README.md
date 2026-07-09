@@ -11,7 +11,7 @@ El conjunto de datos se tomó de [Kaggle](https://www.kaggle.com/datasets/netfli
 - **combined_data.txt**: Contiene las calificaciones de usuarios para películas
 - **movie_titles.csv**: Contiene la información de las películas (título, año de lanzamiento, etc.)
 
-Estos archivos los puedes descargar desde [esta carpeta compartida] (https://drive.google.com/drive/folders/1jpZD2mhX9DfEdUM75krFLnACT1Ya9Uiy?usp=sharing)
+Estos archivos los puedes descargar desde [esta carpeta compartida](https://drive.google.com/drive/folders/1jpZD2mhX9DfEdUM75krFLnACT1Ya9Uiy?usp=sharing)
 
 El dataset incluye millones de calificaciones de usuarios en una escala de 1 a 5 estrellas para diferentes películas de Netflix, proporcionando una base sólida para el desarrollo y evaluación de algoritmos de recomendación colaborativa.
 
